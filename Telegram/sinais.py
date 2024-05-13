@@ -1,6 +1,6 @@
-API_TOKEN = "SEU_TOKEN"
-CHAT_ID = "ID DO SEU CHAT/GRUPO"
-URL = "https://blaze-4.com/api/crash_games/recent"
+API_TOKEN = "7134873474:AAEzB4OBhiOX2QEUMdkTzFjrWRLm4Z7JPbI".
+CHAT_ID = "6989491890"
+URL = "https://winricher.com/yuavwu90n"
 
 import json
 import requests
